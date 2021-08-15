@@ -1,0 +1,2 @@
+dotnet ef migrations add init1 -c ModelChangeContext1 -p ../DbContextModelChange.csproj  -o Migrations/Schema1
+dotnet ef migrations add init2 -c ModelChangeContext2 -p ../DbContextModelChange.csproj  -o Migrations/Schema2
