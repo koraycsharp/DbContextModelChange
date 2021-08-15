@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DbContextModelReplace.Entity
+namespace DbContextModelChange.Entity
 {
     public class Table1
     {

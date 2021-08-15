@@ -1,4 +1,4 @@
-﻿using DbContextModelReplace.Context;
+﻿using DbContextModelChange.Context;
 using Microsoft.EntityFrameworkCore.Design;
 
 namespace DbContextModelReplace.DesignTime

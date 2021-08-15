@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 
-namespace DbContextModelReplace.Context
+namespace DbContextModelChange.Context
 {
     public class SchemaCacheKeyFactory : IModelCacheKeyFactory
     {

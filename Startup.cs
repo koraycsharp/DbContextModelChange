@@ -1,10 +1,10 @@
-using DbContextModelReplace.Context;
+using DbContextModelChange.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace DbContextModelReplace
+namespace DbContextModelChange
 {
     public class Startup
     {

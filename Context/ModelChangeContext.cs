@@ -1,11 +1,11 @@
 ﻿using System;
-using DbContextModelReplace.Entity;
+using DbContextModelChange.Entity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace DbContextModelReplace.Context
+namespace DbContextModelChange.Context
 {
     public class ModelChangeContext1 : DbContext
     {
